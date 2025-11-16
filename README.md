@@ -145,5 +145,7 @@ Note: Keep all the switch faults in off position
 ## OUTPUT:
 <img width="757" height="710" alt="image" src="https://github.com/user-attachments/assets/aa973780-b04a-4a52-be67-f92c0986a69c" />
 
-
 ## RESULT:
+Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
+
+
