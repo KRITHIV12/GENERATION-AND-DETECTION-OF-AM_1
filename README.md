@@ -85,10 +85,11 @@ Note: Keep all the switch faults in off position
 ## PROGRAM:
  
 ## TABULATION:
+<img width="1280" height="857" alt="image" src="https://github.com/user-attachments/assets/9205e6a1-da19-473a-9ab4-0f8aa2e073eb" />
+
 
 ## CALCULATION:
-
-
+<img width="1124" height="914" alt="image" src="https://github.com/user-attachments/assets/f76e36f5-1d5f-4f78-bb95-1b1bd3acc7de" />
 
 ## OUTPUT:
 
